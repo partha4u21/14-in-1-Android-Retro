@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="game_field_weight_width" translatable="false">3</integer>
+    <integer name="game_field_other_weight_width" translatable="false">2</integer>
+    <integer name="game_field_weight_height" translatable="false">2</integer>
+    <integer name="game_field_other_weight_height" translatable="false">1</integer>
+</resources>
